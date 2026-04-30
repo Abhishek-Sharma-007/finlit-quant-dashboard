@@ -1,0 +1,13 @@
+title,category,summary,keywords
+Interest Rates and Equity Valuation,Macro Finance,Higher interest rates tend to reduce present values of future cash flows and can pressure growth stock valuations.,interest rates;discount rate;valuation;equities
+Inflation and Consumer Demand,Macro Economics,Persistent inflation can change spending behavior as households prioritize essentials over discretionary goods.,inflation;consumer demand;pricing power
+Volatility and Risk Management,Risk Management,Volatility should be sized against position risk so portfolio losses remain survivable under stress.,volatility;position sizing;risk controls
+Momentum Strategies in Practice,Quant Strategies,Momentum strategies often buy recent winners and sell laggards but require strict risk controls during reversals.,momentum;trend following;factor investing
+Moving Averages as Trend Filters,Technical Analysis,Short and long moving averages help identify trend direction and reduce noise in day to day price action.,moving averages;SMA;EMA;trend
+RSI and Mean Reversion Signals,Technical Analysis,RSI can highlight overbought and oversold zones but should be combined with broader trend context.,RSI;mean reversion;overbought;oversold
+Drawdowns and Capital Preservation,Risk Management,Maximum drawdown quantifies peak to trough loss and helps evaluate strategy durability.,drawdown;capital preservation;downside risk
+AI Sector Growth Narrative,Thematic Investing,AI driven productivity expectations can support technology sector multiples when earnings execution follows.,AI;sector growth;technology;earnings
+Earnings Expectations and Repricing,Fundamental Analysis,Price often reacts more to the gap between reported results and expectations than to absolute numbers.,earnings;guidance;expectations;repricing
+Diversification Across Assets,Portfolio Construction,Diversification reduces concentration risk by combining assets with different return drivers and correlations.,diversification;correlation;portfolio construction
+Liquidity Conditions and Risk Appetite,Macro Finance,Loose liquidity can increase risk taking while tighter liquidity often compresses valuations.,liquidity;risk appetite;financial conditions
+Behavioral Biases in Markets,Behavioral Finance,Anchoring and herd behavior may amplify trend persistence or panic selling around key events.,behavioral finance;anchoring;herding;sentiment
